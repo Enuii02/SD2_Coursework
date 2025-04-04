@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\qq328\\Documents\\GitHub\\SD2_Coursework\\SD2 CW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDA8834F-092F-41F7-BA3E-32FA452ECCCF}|SD2 CW\\SD2 CW.vcxproj|C:\\Users\\qq328\\Documents\\GitHub\\SD2_Coursework\\SD2 CW\\SD2 CW\\SD2 CW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FDA8834F-092F-41F7-BA3E-32FA452ECCCF}|SD2 CW\\SD2 CW.vcxproj|solutionrelative:SD2 CW\\SD2 CW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\qq328\\Documents\\GitHub\\SD2_Coursework\\SD2 CW\\SD2 CW\\SD2 CW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SD2 CW\\SD2 CW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,14 +24,8 @@
               "RelativeDocumentMoniker": "SD2 CW\\SD2 CW.cpp",
               "ToolTip": "C:\\Users\\qq328\\Documents\\GitHub\\SD2_Coursework\\SD2 CW\\SD2 CW\\SD2 CW.cpp",
               "RelativeToolTip": "SD2 CW\\SD2 CW.cpp",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
->>>>>>> 906ffc1fb0a0ca1da246c80e4a0ff20b4102fbc2
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T13:56:32.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-04T13:56:32.251Z"
             }
           ]
         }
